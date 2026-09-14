@@ -1,7 +1,9 @@
 /* Is It Greg? — badge styling for Hacker News */
 
 .is-greg-badge {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
   margin-left: 6px;
   padding: 1px 6px;
   border-radius: 9px;
@@ -11,4 +13,9 @@
   font-weight: bold;
   line-height: 1.4;
   vertical-align: middle;
+}
+
+.is-greg-face {
+  width: 14px;
+  height: 14px;
 }

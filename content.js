@@ -14,7 +14,11 @@ function isGreg(href) {
 function addBadge(link) {
   const badge = document.createElement("span");
   badge.className = "is-greg-badge";
-  badge.textContent = "Greg";
+  const face = document.createElement("img");
+  face.className = "is-greg-face";
+  face.src = chrome.runtime.getURL("images/greg.png");
+  face.alt = "";
+  badge.append(face, "Greg");
   badge.title = "This link points to greg.technology";
   link.insertAdjacentElement("afterend", badge);
 }

@@ -1,9 +1,10 @@
 # Is It Greg?
 
 A tiny Chrome extension that highlights Hacker News submissions linking to
-[greg.technology](https://greg.technology) or any of its subdomains.
+[greg.technology](https://greg.technology) or any of its subdomains, as well
+as stories and comments posted by Greg himself (`gregsadetsky`).
 
-Matching stories get a small orange **Greg** badge next to the title.
+Matches get a small orange **Greg** badge (with his face on it).
 
 ## Install
 

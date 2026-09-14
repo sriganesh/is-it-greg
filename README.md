@@ -10,14 +10,14 @@ Matches get a small orange **Greg** badge (with his face on it).
 
 ## What it looks like
 
-Stories on the front page — whether they link to greg.technology or were
-submitted by Greg:
+Greg sweeps the front page, flagging stories that link to greg.technology or
+that he submitted:
 
-![The HN front page with two stories flagged with the Greg badge](images/screenshot-front-page.png)
+<img src="images/demo.gif" width="652" alt="Greg's face sweeping across the Hacker News front page, revealing Greg badges in its wake">
 
-Comments by Greg:
+His comments get flagged too:
 
-![A comment by Greg flagged with the badge](images/screenshot-comment.png)
+<img src="images/screenshot-comment.png" width="656" alt="A Hacker News comment by gregsadetsky with the Greg badge next to his username">
 
 ## Install
 
